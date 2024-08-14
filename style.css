@@ -2,7 +2,7 @@ html,
 body {
     margin: 0;
     padding: 0;
-    scrollbar-color: #484182 #6075B8;
+    scrollbar-color: #9AA7BA #6075B8;
     scrollbar-width: thin;
 }
 
@@ -78,7 +78,7 @@ h1 {
 }
 
 .wordBank a {
-    color: #FC94AF;
+    color: #AC3F46;
     text-decoration: none;
 }
 
