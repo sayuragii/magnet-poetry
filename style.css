@@ -339,7 +339,7 @@ input[type=color] {
 }
 
 .inner-customize {
-    background-color: #4d4b63;
+    background-color: #E2DBCF;
     padding: 20px;
 }
 
@@ -432,5 +432,6 @@ details>p {
     .mobile {
         font-size: 10px;
         text-align: center;
-        color: #384672;
+        color: #292835;
     }
+}
