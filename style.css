@@ -26,7 +26,7 @@ details ul {
 
 body {
     font-family: sans-serif;
-    background-image: url('https://sadgrl.online/images/new/peaceful.jpg');
+    background-image: url('https://file.garden/Zi6mdroOThYMNcLy/WEBSITES/semicolora.png');
     background-size: cover;
     background-attachment: fixed;
 }
@@ -40,9 +40,9 @@ summary.updates {
 }
 
 h1 {
-    font-family: Georgia;
+    font-family: Nunito;
     font-size: 3vw;
-    color: #AA6FE7;
+    color: #C4D87C;
     text-shadow: 1px 1px white;
     padding: 0;
     margin: 0;
@@ -69,10 +69,10 @@ h1 {
 }
 
 .wordBank {
-    border: 1px solid #1f367c;
+    border: 1px solid #D48E6F;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #424056;
+    background-color: #E2DBCF;
     overflow: auto;
     scrollbar-width: thin;
 }
