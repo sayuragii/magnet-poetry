@@ -26,7 +26,7 @@ details ul {
 
 body {
     font-family: sans-serif;
-    background-image: url('');
+    background-image: url('https://file.garden/Zi6mdroOThYMNcLy/WEBSITES/semicolora.png');
     background-size: cover;
     background-attachment: fixed;
 }
@@ -42,7 +42,7 @@ summary.updates {
 h1 {
     font-family: Verdana;
     font-size: 3vw;
-    color: ##f3f2f5;
+    color: #f3f2f5;
     padding: 0;
     margin: 0;
     margin-bottom: 10px;
